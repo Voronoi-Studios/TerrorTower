@@ -3,8 +3,13 @@ plugins {
     id("hytale-mod") version "0.+"
 }
 
-group = "com.example"
-version = "0.1.0"
+val buildNumberFile = file("buildNumber.txt")
+var buildNumber = if (buildNumberFile.exists()) buildNumberFile.readText().toInt() else 0
+buildNumber++
+buildNumberFile.writeText(buildNumber.toString())
+
+group = "ch.voronoi"
+version = "0.2.${buildNumber}"
 val javaVersion = 25
 
 repositories {

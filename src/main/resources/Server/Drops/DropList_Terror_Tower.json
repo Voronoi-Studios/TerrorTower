@@ -10,11 +10,11 @@
             "Item": {
               "ItemId": "Door_Key"
             },
-            "Weight": 50
+            "Weight": 40
           },
           {
             "Type": "Empty",
-            "Weight": 50
+            "Weight": 60
           }
         ]
       }
