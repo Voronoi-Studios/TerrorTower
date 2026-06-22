@@ -1,16 +1,7 @@
-# Hytale Plugin Template
+# Terror Tower
 
-A template for Hytale java plugins. Created by [Up](https://github.com/UpcraftLP), and slightly modified by Kaupenjoe. 
+> Outsmart your friends as you try and reach the top of Terror Tower without being possessed!
 
-### Configuring the Template
-If you for example installed the game in a non-standard location, you will need to tell the project about that.
-The recommended way is to create a file at `%USERPROFILE%/.gradle/gradle.properties` to set these properties globally.
+adds a procedurally generated mini game where you and your friends choose whether to be Terrors or Explorers. Terrors gain access to secret tunnels and halls to track down and possess Explorers. But watch out! Terrors get slowed and blinded when they enter the Explorer rooms! Watch through walls and wait to make the perfect move and stop your friends from reaching the hot air balloon and escaping Terror Tower!
 
-```properties
-# Set a custom game install location
-hytale.install_dir=path/to/Hytale
-
-# Speed up the decompilation process significantly, by only including the core hytale packages.
-# Recommended if decompiling the game takes a very long time on your PC.
-hytale.decompile_partial=true
-```
+<img width="1336" height="901" alt="InfoGraphic" src="https://github.com/user-attachments/assets/6b75b9e4-cac5-4c32-847f-0ce57caaf08c" />
