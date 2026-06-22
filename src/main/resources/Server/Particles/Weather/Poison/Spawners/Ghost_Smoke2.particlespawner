@@ -1,0 +1,80 @@
+{
+  "RenderMode": "BlendAdd",
+  "EmitOffset": {
+    "X": {
+      "Min": 0,
+      "Max": 4
+    },
+    "Y": {
+      "Min": 0,
+      "Max": 1.5
+    },
+    "Z": {
+      "Min": 0,
+      "Max": 4
+    }
+  },
+  "ParticleRotationInfluence": "None",
+  "LinearFiltering": false,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "MaxConcurrentParticles": 50,
+  "ParticleLifeSpan": {
+    "Min": 2,
+    "Max": 2
+  },
+  "SpawnRate": {
+    "Min": 15,
+    "Max": 20
+  },
+  "Particle": {
+    "Texture": "Particles/Textures/Smoke/Smoke.png",
+    "FrameSize": {
+      "Width": 64,
+      "Height": 64
+    },
+    "ScaleRatioConstraint": "None",
+    "UVOption": "RandomFlipU",
+    "InitialAnimationFrame": {
+      "Rotation": {
+        "X": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Y": {
+          "Min": 0,
+          "Max": 0
+        },
+        "Z": {
+          "Min": 0,
+          "Max": 0
+        }
+      },
+      "Scale": {
+        "X": {
+          "Min": 10,
+          "Max": 10
+        },
+        "Y": {
+          "Min": 10,
+          "Max": 10
+        }
+      },
+      "Opacity": 1,
+      "Color": "#1c1e1e",
+      "FrameIndex": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Animation": {
+      "1": {}
+    },
+    "SoftParticles": "Require"
+  },
+  "IsLowRes": true,
+  "SpawnBurst": true,
+  "UseEmitDirection": true,
+  "LightInfluence": 1,
+  "Shape": "Cube"
+}

@@ -1,0 +1,15 @@
+{
+  "QualityValue": 3,
+  "ItemTooltipTexture": "UI/ItemQualities/Tooltips/ItemTooltipTerror.png",
+  "ItemTooltipArrowTexture": "UI/ItemQualities/Tooltips/ItemTooltipTerrorArrow.png",
+  "SlotTexture": "UI/ItemQualities/Slots/SlotTerror2.png",
+  "BlockSlotTexture": "UI/ItemQualities/Slots/SlotTerror2.png",
+  "SpecialSlotTexture": "UI/ItemQualities/Slots/SlotTerror2.png",
+  "TextColor": "#8a2617",
+  "LocalizationKey": "Terror",
+  "VisibleQualityLabel": true,
+  "RenderSpecialSlot": true,
+  "ItemEntityConfig": {
+    "ParticleSystemId": "Drop_Terror"
+  }
+}

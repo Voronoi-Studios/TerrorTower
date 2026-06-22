@@ -1,0 +1,53 @@
+{
+  "FogDistance": [
+    0.0,
+    80
+  ],
+  "SkyTopColors": [
+    {
+      "Hour": 23,
+      "Color": "#1e150aff"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 23,
+      "Color": "#080504"
+    }
+  ],
+  "FogHeightFalloffs": [
+    {
+      "Hour": 23,
+      "Value": 30
+    }
+  ],
+  "FogDensities": [
+    {
+      "Hour": 23,
+      "Value": 0.2
+    }
+  ],
+  "ScreenEffect": "ScreenEffects/Sand.png",
+  "ScreenEffectColors": [
+    {
+      "Hour": 0,
+      "Color": "#2f2c27ff"
+    }
+  ],
+  "SkyBottomColors": [
+    {
+      "Hour": 23,
+      "Color": "#040404ff"
+    }
+  ],
+  "SkySunsetColors": [
+    {
+      "Hour": 23,
+      "Color": "#301705ff"
+    }
+  ],
+  "Particle": {
+    "SystemId": "Dust_Sparkles",
+    "Color": "#151515"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "TranslationProperties": {
+    "Name": "Leave Lever"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Lever.png",
+  "Categories": [
+    "Blocks.Deco",
+    "Blocks.Deco"
+  ],
+  "Interactions": {
+    "Secondary": "Block_Secondary"
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "BlockSoundSetId": "Metal",
+    "PhysicalMaterialId": "Metal",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/LeverOn.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Tinkering/Lever_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Plant_Large",
+    "VariantRotation": "All",
+    "Flags": {
+      "IsUsable": true
+    },
+    "Gathering": {
+      "Soft": {}
+    },
+    "BlockParticleSetId": "Grass",
+    "TextureComputedColor": "#4F4D41",
+    "CubeShadingMode": "Standard",
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "YeetOutOfInstanceInteraction"
+          }
+        ]
+      }
+    },
+    "InteractionHint": "server.interactionHints.turnon",
+    "IgnoreSupportWhenPlaced": true
+  },
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

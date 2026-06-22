@@ -1,0 +1,6 @@
+Group {
+    LayoutMode: CenterMiddle;
+
+    Background: PatchStyle(TexturePath: "blindness.png", Anchor: (Width: 4000, Height: 4000));
+    
+}

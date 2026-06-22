@@ -1,0 +1,34 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "PlacementSettings": {
+      "BlockPreviewVisibility": "AlwaysVisible"
+    },
+    "VariantRotation": "All",
+    "RequiresAlphaBlending": true,
+    "Opacity": "Cutout",
+    "Textures": [
+      {
+        "South": "BlockTextures/Tutorial.png",
+        "UpDown": "Blocks/_Debug/TextureEmpty.png",
+        "North": "Blocks/_Debug/TextureEmpty.png",
+        "West": "Blocks/_Debug/TextureEmpty.png",
+        "East": "Blocks/_Debug/TextureEmpty.png"
+      }
+    ],
+    "CubeShadingMode": "Standard",
+    "Material": "Solid",
+    "CustomModelScale": 0.1,
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Tutorial.png"
+      }
+    ],
+    "CustomModel": "Blocks/Tutorial.blockymodel",
+    "HitboxType": "Block_Vertical_Flat"
+  },
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  }
+}

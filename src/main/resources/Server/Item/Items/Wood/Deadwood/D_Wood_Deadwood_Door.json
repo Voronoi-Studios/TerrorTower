@@ -1,0 +1,117 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Wood_Deadwood_Planks.name"
+  },
+  "Parent": "Wood_Softwood_Planks",
+  "Icon": "Icons/ItemsGenerated/D_Wood_Deadwood_Door.png",
+  "Set": "Wood_Deadwood_Planks",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Wood_Deadwood_Trunk",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "WoodPlanks"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "BlockType": {
+    "ParticleColor": "#4e412c",
+    "TextureComputedColor": "#3E3423",
+    "State": {
+      "Definitions": {
+        "Ghost": {
+          "Material": "Empty",
+          "DrawType": "Model",
+          "CustomModel": "Blocks/GhostDoor.blockymodel",
+          "CustomModelTexture": [
+            {
+              "Texture": "BlockTextures/D_Wood_Deadwood_Planks2.png"
+            }
+          ],
+          "Interactions": {
+            "CollisionLeave": {
+              "Interactions": [
+                {
+                  "Type": "ChangeState",
+                  "Changes": {
+                    "Ghost": "default"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Interactions": {
+      "Collision": {
+        "Interactions": [
+          {
+            "Type": "IsGhostInteraction",
+            "Next": {
+              "Type": "ChangeState",
+              "Changes": {
+                "default": "Ghost"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "DrawType": "Model",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/D_Wood_Deadwood_Planks2.png"
+      }
+    ],
+    "CustomModel": "Blocks/GhostDoor.blockymodel",
+    "VariantRotation": "NESW",
+    "HitboxType": "FullPlusHitBox"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Wood_Planks"
+    },
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    },
+    {
+      "Id": "Wood_Deadwood"
+    },
+    {
+      "Id": "Wood_Blackwood_Deadwood"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Wood"
+    ],
+    "Family": [
+      "Deadwood"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -7,
+      -22
+    ]
+  }
+}

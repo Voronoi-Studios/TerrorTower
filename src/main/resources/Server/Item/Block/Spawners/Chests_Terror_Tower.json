@@ -1,0 +1,24 @@
+{
+  "Entries": [
+    {
+      "Name": "Furniture_Ancient_Chest_Small",
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "DropList_Terror_Tower"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Furniture_Temple_Dark_Chest_Small",
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "DropList_Terror_Tower"
+          }
+        }
+      }
+    }
+  ]
+}

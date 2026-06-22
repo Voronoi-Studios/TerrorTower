@@ -10,7 +10,9 @@
   ],
   "Website": "${plugin_website}",
   "ServerVersion": "${server_version}",
-  "Dependencies": {},
+  "Dependencies": {
+    "ch.voronoi:GridWaveCore" : ">=0.9.0"
+  },
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": true,

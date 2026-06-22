@@ -1,0 +1,84 @@
+{
+  "TranslationProperties": {
+    "Name": "Chain Door"
+  },
+  "Icon": "Icons/ItemsGenerated/ChainDoor.png",
+  "Categories": [
+    "Furniture.Doors"
+  ],
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "CustomModel": "Blocks/ChainDoor.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/ChainDoor.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#bdbdbd",
+    "State": {
+      "Definitions": {
+        "Invisible": {
+          "DrawType": "Model",
+          "Material": "Empty",
+          "CustomModel": "Blocks/ChainDoorOpen.blockymodel",
+          "HitboxType": "ChainDoorOpen"
+        }
+      }
+    },
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "ModifyInventory",
+            "ItemToRemove": {
+              "Id": "Door_Key",
+              "Quantity": 1
+            },
+            "Next": {
+              "Type": "ChangeState",
+              "Changes": {
+                "default": "Invisible"
+              }
+            },
+            "Failed": {
+              "Type": "SendMessage",
+              "Message": "Needs Key"
+            }
+          }
+        ]
+      }
+    },
+    "PlacementSettings": {
+      "BlockPreviewVisibility": "AlwaysVisible"
+    },
+    "VariantRotation": "NESW",
+    "CubeShadingMode": "Reflective",
+    "BlockSoundSetId": "Metal",
+    "HitboxType": "ChainDoorHitbox",
+    "InteractionHitboxType": "ChainDoorHitbox",
+    "IsDoor": true
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": []
+  },
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      23,
+      3,
+      1
+    ],
+    "Translation": [
+      -3,
+      -42
+    ]
+  },
+  "Scale": 0.2
+}

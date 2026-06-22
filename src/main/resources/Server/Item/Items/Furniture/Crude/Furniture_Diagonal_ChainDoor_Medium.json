@@ -1,0 +1,98 @@
+{
+  "TranslationProperties": {
+    "Name": "ChainDoor"
+  },
+  "PlayerAnimationsId": "Block",
+  "Categories": [
+    "Furniture.Doors"
+  ],
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      1,
+      95,
+      6
+    ],
+    "Translation": [
+      -2,
+      -46
+    ]
+  },
+  "BlockType": {
+    "BlockParticleSetId": "Stone",
+    "CustomModel": "Blocks/ChainDoor.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/ChainDoor.png"
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "HitboxType": "ChainDoorHitbox",
+    "Material": "Solid",
+    "State": {
+      "Definitions": {
+        "CloseDoorIn": {
+          "InteractionSoundEventId": "SFX_Door_Temple_Dark_Close",
+          "DrawType": "Model",
+          "CustomModel": "Blocks/ChainDoor.blockymodel",
+          "HitboxType": "ChainDoorHitbox"
+        },
+        "CloseDoorOut": {
+          "CustomModelAnimation": "Blocks/Decorative_Sets/Scarak_Hive/Door_Medium_Close.blockyanim",
+          "InteractionSoundEventId": "SFX_Door_Temple_Dark_Close",
+          "DrawType": "Model",
+          "CustomModel": "Blocks/ChainDoor.blockymodel",
+          "HitboxType": "ChainDoorHitbox"
+        },
+        "OpenDoorIn": {
+          "SoundOcclusionOpacity": 0.0,
+          "HitboxType": "ChainDoorOpen",
+          "InteractionSoundEventId": "SFX_Door_Temple_Dark_Open",
+          "InteractionHint": "server.interactionHints.closeDoor",
+          "DrawType": "Model",
+          "CustomModel": "Blocks/ChainDoorOpen.blockymodel"
+        },
+        "OpenDoorOut": {
+          "SoundOcclusionOpacity": 0.0,
+          "HitboxType": "ChainDoorOpen",
+          "InteractionSoundEventId": "SFX_Door_Temple_Dark_Open",
+          "InteractionHint": "server.interactionHints.closeDoor",
+          "DrawType": "Model",
+          "CustomModel": "Blocks/ChainDoorOpen.blockymodel"
+        }
+      }
+    },
+    "VariantRotation": "NESW",
+    "BlockSoundSetId": "Stone",
+    "PhysicalMaterialId": "Stone",
+    "SoundOcclusionOpacity": 2.0,
+    "InteractionHint": "server.interactionHints.openDoor",
+    "IsDoor": true,
+    "Interactions": {
+      "Use": "Door"
+    },
+    "ParticleColor": "#72503e",
+    "TextureComputedColor": "#664637"
+  },
+  "Scale": 0.667,
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Human"
+    ]
+  },
+  "$Comment": "",
+  "Icon": "Icons/ItemsGenerated/Furniture_Diagonal_ChainDoor_Medium.png",
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}

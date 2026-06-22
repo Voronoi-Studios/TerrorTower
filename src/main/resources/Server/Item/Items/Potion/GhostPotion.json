@@ -1,0 +1,85 @@
+{
+  "Parent": "Potion_Template",
+  "TranslationProperties": {
+    "Name": "server.items.Potion_Health.name",
+    "Description": "server.items.Potion_Health.description"
+  },
+  "Quality": "Common",
+  "ItemLevel": 7,
+  "Icon": "Icons/ItemsGenerated/GhostPotion.png",
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -9
+    ]
+  },
+  "Recipe": {
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Potion_Empty",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Plant_Fruit_Berries_Red",
+        "Quantity": 12
+      },
+      {
+        "ItemId": "Plant_Petals_Blood",
+        "Quantity": 6
+      },
+      {
+        "ItemId": "Plant_Crop_Health2",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Alchemybench",
+        "Type": "Crafting",
+        "Categories": [
+          "Alchemy_Potions"
+        ],
+        "RequiredTierLevel": 3
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 1
+  },
+  "InteractionVars": {
+    "Effect": {
+      "Interactions": [
+        {
+          "Type": "EffectCondition",
+          "EntityEffectIds": [
+            "GhostHunterEffect"
+          ],
+          "Match": "None"
+        }
+      ]
+    }
+  },
+  "BlockType": {
+    "CustomModel": "Items/Consumables/Potions/Potion_Normal.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/Consumables/Potions/Potion_Textures/Purple.png",
+        "Weight": 1
+      }
+    ],
+    "BlockParticleSetId": "GlassMagic",
+    "ParticleColor": "#d01faa",
+    "Light": {
+      "Color": "#a2a"
+    },
+    "TextureComputedColor": "#A7A6A4"
+  },
+  "MaxStack": 50,
+  "DropOnDeath": true
+}

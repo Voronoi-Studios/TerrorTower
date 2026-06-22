@@ -1,0 +1,12 @@
+{
+  "Death": {
+    "RespawnController": {
+      "Type": "ExitInstance"
+    },
+    "ItemsAmountLossPercentage": 0,
+    "ItemsDurabilityLossPercentage": 0
+  },
+  "World": {
+    "AllowBlockBreaking": true
+  }
+}

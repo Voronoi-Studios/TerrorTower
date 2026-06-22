@@ -1,0 +1,23 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Door_Key"
+            },
+            "Weight": 50
+          },
+          {
+            "Type": "Empty",
+            "Weight": 50
+          }
+        ]
+      }
+    ]
+  }
+}

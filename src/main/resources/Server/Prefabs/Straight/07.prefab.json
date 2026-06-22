@@ -1,0 +1,4352 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "*Furniture_Ancient_Door_State_Definitions_CloseDoorOut",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "*Furniture_Ancient_Door_State_Definitions_CloseDoorOut",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 9
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "D_Wood_Deadwood_Plank_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 10
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "D_Wood_Deadwood_Plank_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "D_Wood_Deadwood_Plank_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "D_Wood_Deadwood_Plank_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Ancient_Ladder"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Ancient_Ladder"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Furniture_Ancient_Ladder"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -4,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 11
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "D_Wood_Deadwood_Plank_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "D_Wood_Deadwood_Plank_Corner",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "D_Wood_Deadwood_Door",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "D_Wood_Deadwood_Door",
+      "filler": 1024,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "D_Wood_Deadwood_Plank",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "D_Wood_Deadwood_Door",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "D_Wood_Deadwood_Door",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "D_Wood_Deadwood_Plank",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "D_Wood_Deadwood_Plank_Corner"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "D_Wood_Deadwood_Plank_Corner"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 9
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Ancient_Ladder",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Ancient_Ladder",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "D_Wood_Deadwood_Plank"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 6
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 10
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "D_Wood_Deadwood_Plank_Corner"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Deadwood_Stairs",
+      "rotation": 11
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Deadwood_Ornate"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "*Furniture_Ancient_Door_State_Definitions_CloseDoorOut",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "*Furniture_Ancient_Door_State_Definitions_CloseDoorOut",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Deadwood_Beam"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Deadwood_Beam"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": -1.5,
+            "Y": 2.5,
+            "Z": -0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -1.5,
+              "Y": -1.5,
+              "Z": -2.5
+            },
+            "Max": {
+              "X": 1.5,
+              "Y": 1.5,
+              "Z": 2.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "EntityEffect",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Remove",
+              "Duration": -1.0
+            },
+            {
+              "Type": "EntityEffect",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Remove",
+              "Duration": -1.0
+            },
+            {
+              "Type": "EntityEffect",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.009999999776482582,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Apply",
+              "Duration": -1.0
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "IsGhostCondition",
+              "Event": "ENTER"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "KeepLoaded": false,
+          "PrefabIndex": 0
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 2.5,
+            "Z": -2.0
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5,
+              "Y": -1.5,
+              "Z": -1.0
+            },
+            "Max": {
+              "X": 0.5,
+              "Y": 1.5,
+              "Z": 1.0
+            }
+          },
+          "Effects": [
+            {
+              "Type": "EntityEffect",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Remove",
+              "Duration": -1.0
+            },
+            {
+              "Type": "EntityEffect",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Remove",
+              "Duration": -1.0
+            },
+            {
+              "Type": "EntityEffect",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.009999999776482582,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Apply",
+              "Duration": -1.0
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "IsGhostCondition",
+              "Event": "ENTER"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "KeepLoaded": false,
+          "PrefabIndex": 1
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 2.0,
+            "Y": 2.5,
+            "Z": 1.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -2.0,
+              "Y": -1.5,
+              "Z": -2.5
+            },
+            "Max": {
+              "X": 2.0,
+              "Y": 1.5,
+              "Z": 2.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "EntityEffect",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Remove",
+              "Duration": -1.0
+            },
+            {
+              "Type": "EntityEffect",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Remove",
+              "Duration": -1.0
+            },
+            {
+              "Type": "EntityEffect",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.009999999776482582,
+              "Effect": "GhostHunterEffect",
+              "Mode": "Apply",
+              "Duration": -1.0
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "IsGhostCondition",
+              "Event": "ENTER"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "KeepLoaded": false,
+          "PrefabIndex": 2
+        }
+      }
+    }
+  ]
+}

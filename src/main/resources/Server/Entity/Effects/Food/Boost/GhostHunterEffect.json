@@ -1,0 +1,17 @@
+{
+  "OverlapBehavior": "Overwrite",
+  "StatusEffectIcon": "UI/StatusEffects/Burn.png",
+  "ApplicationEffects": {
+    "FirstPersonParticles": [
+      {
+        "SystemId": "Ghost_Smoke",
+        "Scale": 10,
+        "Color": "#ff0000",
+        "TargetEntityPart": "Entity",
+        "TargetNodeName": "Head"
+      }
+    ],
+    "HorizontalSpeedMultiplier": 0.5
+  },
+  "Infinite": true
+}

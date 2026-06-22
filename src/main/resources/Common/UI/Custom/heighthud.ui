@@ -1,0 +1,20 @@
+$Common = "Common.ui";
+Group {
+    LayoutMode: Left;
+    Padding: (Full: 15);
+    $Common.@Panel {
+        Anchor: (Width: 350, Height: 80);
+        LayoutMode: Middle;
+        Padding: (Full: 15);
+        Label #SelfFloor {
+            Anchor: (Left: 10);
+            Text: "Current floor: 0";
+        }
+        Label #HeighestFloor {
+            Visible: false;
+            Anchor: (Right: 10);
+            Text: "Heighest explorer floor: 0";
+        }
+        
+    }
+}

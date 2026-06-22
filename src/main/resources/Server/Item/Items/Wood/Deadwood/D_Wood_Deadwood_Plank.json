@@ -1,0 +1,77 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Wood_Deadwood_Planks.name"
+  },
+  "Parent": "Wood_Softwood_Planks",
+  "Icon": "Icons/ItemsGenerated/D_Wood_Deadwood_Plank.png",
+  "Set": "Wood_Deadwood_Planks",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Wood_Deadwood_Trunk",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "WoodPlanks"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Wood_Planks"
+    },
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    },
+    {
+      "Id": "Wood_Deadwood"
+    },
+    {
+      "Id": "Wood_Blackwood_Deadwood"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Wood"
+    ],
+    "Family": [
+      "Deadwood"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      23,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -10,
+      -8
+    ]
+  },
+  "BlockType": {
+    "ParticleColor": "#4e412c",
+    "TextureComputedColor": "#3E3423",
+    "DrawType": "Model",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/D_Wood_Deadwood_Planks2.png"
+      }
+    ],
+    "CustomModel": "Blocks/GhostBlock.blockymodel",
+    "VariantRotation": "NESW",
+    "CubeShadingMode": "Standard",
+    "Opacity": "Solid"
+  }
+}

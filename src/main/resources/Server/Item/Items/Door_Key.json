@@ -1,0 +1,30 @@
+{
+  "Model": "Blocks/Key.blockymodel",
+  "Texture": "Blocks/Tinkering/Iron_Chain_Small_Texture.png",
+  "Icon": "Icons/ItemsGenerated/Door_Key.png",
+  "IconProperties": {
+    "Scale": 1.8,
+    "Rotation": [
+      137,
+      61,
+      139
+    ],
+    "Translation": [
+      12,
+      8
+    ]
+  },
+  "DropOnDeath": true,
+  "ItemEntity": {
+    "ParticleSystemId": "Drop_Epic"
+  },
+  "Quality": "Epic",
+  "MaxStack": 1,
+  "TranslationProperties": {
+    "Name": "Key"
+  },
+  "Categories": [
+    "Items.Tools"
+  ],
+  "UsePlayerAnimations": true
+}

@@ -1,0 +1,16 @@
+{
+  "InstanceId": "Terror_Tower",
+  "Description": {
+    "DisplayName": "TERROR TOWER",
+    "FlavorText": "by Jonas.png and Azim",
+    "ThemeColor": "#371108",
+    "Objectives": [
+      "Join a Team",
+      "Win"
+    ],
+    "Tips": [
+      "The quiet and thoughtful will survive"
+    ],
+    "SplashImage": "KeyArt2.png"
+  }
+}
