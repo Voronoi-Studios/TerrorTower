@@ -6,7 +6,6 @@ adds a procedurally generated mini game where you and your friends choose whethe
 
 <img width="1336" height="901" alt="InfoGraphic" src="https://github.com/user-attachments/assets/6b75b9e4-cac5-4c32-847f-0ce57caaf08c" />
 
-<img width="316" height="79" alt="grafik" src="https://github.com/user-attachments/assets/94c9db44-97ba-463e-b478-de64b42693d3" />
+<img width="298" height="60" alt="grafik" src="https://github.com/user-attachments/assets/711a65ee-27c4-4592-aad0-6b900338e492" />
 
-<img width="316" height="79" alt="grafik" src="https://github.com/user-attachments/assets/e7216ba2-fd4c-4470-9541-38d0d8f3410b" />
-
+<img width="300" height="61" alt="grafik" src="https://github.com/user-attachments/assets/3532db21-6f78-4a66-9809-ab8519a1fdf1" />
