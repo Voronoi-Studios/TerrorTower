@@ -5,4 +5,5 @@
 adds a procedurally generated mini game where you and your friends choose whether to be Terrors or Explorers. Terrors gain access to secret tunnels and halls to track down and possess Explorers. But watch out! Terrors get slowed and blinded when they enter the Explorer rooms! Watch through walls and wait to make the perfect move and stop your friends from reaching the hot air balloon and escaping Terror Tower!
 
 <img width="1336" height="901" alt="InfoGraphic" src="https://github.com/user-attachments/assets/6b75b9e4-cac5-4c32-847f-0ce57caaf08c" />
-<img width="308" height="72" alt="grafik" src="https://github.com/user-attachments/assets/f976f47b-8757-4b68-a28a-253b54206b8e" />
+
+<img width="316" height="79" alt="grafik" src="https://github.com/user-attachments/assets/94c9db44-97ba-463e-b478-de64b42693d3" />
