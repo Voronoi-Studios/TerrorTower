@@ -5,6 +5,7 @@ import com.hypixel.hytale.component.Store;
 import com.hypixel.hytale.component.system.DelayedSystem;
 import com.hypixel.hytale.server.core.entity.entities.Player;
 import com.hypixel.hytale.server.core.modules.entity.component.TransformComponent;
+import com.hypixel.hytale.server.core.universe.Universe;
 import com.hypixel.hytale.server.core.universe.world.storage.EntityStore;
 
 public class FloorHudSystem extends DelayedSystem<EntityStore> {
@@ -27,7 +28,7 @@ public class FloorHudSystem extends DelayedSystem<EntityStore> {
         }
         
         
-        for(var playerRef : TerrorPlugin.getInstance().teams.keySet()) { //TODO iterate all players online instead of the ones in the game, remove agressive logging
+        for(var playerRef : Universe.get().getPlayers()) { //TODO iterate all players online instead of the ones in the game, remove agressive logging
                         
             Player player = playerRef.getReference().getStore().getComponentConcurrent(playerRef.getReference(), Player.getComponentType());
             if(!TerrorPlugin.getInstance().isGameRunning.get()) { //game not running - remove hud

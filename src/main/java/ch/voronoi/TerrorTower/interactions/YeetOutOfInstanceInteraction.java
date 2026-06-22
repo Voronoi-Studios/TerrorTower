@@ -30,10 +30,14 @@ public class YeetOutOfInstanceInteraction extends SimpleInstantInteraction {
             world.execute(()->{
                 ModelAsset masset = ModelAsset.getAssetMap().getAsset("Player");
                 for(var playerRef :world.getPlayerRefs()) {
-                    InstancesPlugin.exitInstance(playerRef.getReference(), ctx.getEntity().getStore());
+                    try {
                     ctx.getEntity().getStore().putComponent(playerRef.getReference(), ModelComponent.getComponentType(), new ModelComponent(Model.createScaledModel(masset, 1f)));
                     PlayerSkinComponent skin = ctx.getEntity().getStore().getComponent(playerRef.getReference(), PlayerSkinComponent.getComponentType());
                     skin.setNetworkOutdated();
+                    } catch (Exception ignored) {
+                        ignored.printStackTrace();
+                    }
+                    InstancesPlugin.exitInstance(playerRef.getReference(), ctx.getEntity().getStore());
                 }
                 InstancesPlugin.safeRemoveInstance(world);
             });
